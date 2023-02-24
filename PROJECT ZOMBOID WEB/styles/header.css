@@ -1,0 +1,33 @@
+.pz-big-logo{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.pz-big-logo-image{
+
+
+}
+
+.header{
+
+    padding: 1px;
+    background-color: gainsboro;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+    
+}
+
+.menu-list{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    list-style-type: none;
+}
+
+.menu-links{
+    
+}
